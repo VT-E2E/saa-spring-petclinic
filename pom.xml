@@ -105,19 +105,18 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
       <!-- minor upgrade -->
-      <version>3.17.0</version>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <!-- minor upgrade -->
-      <version>2.16.1</version>
+      <version>2.22.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
       <!-- minor upgrade -->
-      <version>1.26.2</version>
+      <version>1.28.0</version>
     </dependency>
     <dependency>
       <groupId>org.webjars</groupId>
